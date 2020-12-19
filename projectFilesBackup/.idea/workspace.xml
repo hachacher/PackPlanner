@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a1725b5-343b-4762-a2fc-37637bf38c6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/hachacher/PackPlan" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lrKEWPL7MlvrnMZBHSx6iSuTWK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Kotlin.PackPlanner">
+    <configuration name="PackPlannerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackPlan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PackPlannerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackPlannerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PackPlan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.PackPlannerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PackPlanner" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="PackPlan" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="main.PackPlanner" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.PackPlanner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a1725b5-343b-4762-a2fc-37637bf38c6c" name="Default Changelist" comment="" />
+      <created>1608349658907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608349658907</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Project">
+      <created>1608353703080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608353703080</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Project">
+      <created>1608354418268</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608354418268</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Project">
+      <created>1608354439388</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608354439388</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="38" key="CommitChangelistDialog2" timestamp="1608354439131">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="278" y="38" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1608354439131" />
+    <state width="445" height="466" key="DebuggerActiveHint" timestamp="1608352967907">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="445" height="466" key="DebuggerActiveHint/0.23.1440.877@0.23.1440.877" timestamp="1608352967907" />
+    <state width="1419" height="453" key="GridCell.Tab.0.bottom" timestamp="1608373967996">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="453" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608373967996" />
+    <state width="1419" height="453" key="GridCell.Tab.0.center" timestamp="1608373967995">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="453" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1608373967995" />
+    <state width="1419" height="453" key="GridCell.Tab.0.left" timestamp="1608373967995">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="453" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1608373967995" />
+    <state width="1419" height="453" key="GridCell.Tab.0.right" timestamp="1608373967996">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="453" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1608373967996" />
+    <state width="1419" height="231" key="GridCell.Tab.1.bottom" timestamp="1608352985659">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1608352985659" />
+    <state width="1419" height="231" key="GridCell.Tab.1.center" timestamp="1608352985658">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1608352985657" />
+    <state width="1419" height="231" key="GridCell.Tab.1.left" timestamp="1608352985657">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1608352985657" />
+    <state width="1419" height="231" key="GridCell.Tab.1.right" timestamp="1608352985658">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="231" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1608352985658" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1608354487574">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1608354487574" />
+    <state x="397" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1608349750011">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="397" y="361" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.877@0.23.1440.877" timestamp="1608349750011" />
+    <state x="412" y="216" width="615" height="490" key="find.popup" timestamp="1608372835258">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="412" y="216" width="615" height="490" key="find.popup/0.23.1440.877@0.23.1440.877" timestamp="1608372835258" />
+    <state x="509" y="357" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608354192881">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="509" y="357" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.877@0.23.1440.877" timestamp="1608354192881" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/src/main/PackPlanner.kt</url>
+          <line>30</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
